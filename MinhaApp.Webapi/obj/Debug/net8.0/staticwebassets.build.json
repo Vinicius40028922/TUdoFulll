@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PaQmAHaygl+RomtsbHQeNvoxQk9BbK3zdRvO7u52aEU=",
+  "Source": "MinhaApp.Webapi",
+  "BasePath": "_content/MinhaApp.Webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
